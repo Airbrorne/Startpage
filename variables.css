@@ -29,9 +29,9 @@
   --display-image: block;
 
   /** surface */
-  --surface-maxWidth: 1000px;
-  --surface-shadow: 12px 12px 0px rgb(62, 27, 142), 24px 24px 0px rgb(54.75, 25.25, 114), 36px 36px 0px rgb(47.5, 23.5, 86), 48px 48px 0px rgb(40.25, 21.75, 58), 60px 60px 0px rgb(33, 20, 30);
-  --surface-borderRadius: 0px;
+  --surface-maxWidth: 1600px;
+  --surface-shadow: 28px 28px 0px rgb(62, 27, 142), 56px 56px 0px rgb(54.75, 25.25, 114), 84px 84px 0px rgb(47.5, 23.5, 86), 112px 112px 0px rgb(40.25, 21.75, 58), 140px 140px 0px rgb(33, 20, 30);
+  --surface-borderRadius: 46px;
 
   /** spacing */
   --space-smallest: 0.125rem;
